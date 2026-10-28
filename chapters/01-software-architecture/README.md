@@ -11,3 +11,5 @@
 5. [AI Software Architect — Software Architecture, темы 1.4–1.6](05-software-architecture-04-06.md)
 6. [AI Software Architect — Software Architecture, темы 1.7–1.9](06-software-architecture-07-09.md)
 7. [AI Software Architect — Software Architecture, темы 1.10–1.11](07-software-architecture-10-11.md)
+8. [AI Software Architect — Software Architecture, темы 1.12–1.14](08-software-architecture-12-14.md)
+9. [SaaS Architecture Basics — базовые понятия SaaS](09-saas-architecture-basics.md)
